@@ -7,7 +7,7 @@ WanderStay is a `travel website` built using the `MEEN (MongoDB, Express, EJS, N
 
 <h1 align="center"> 
 
-<a href=""><strong> ➥ 🛖  Live Your Home
+<a href="https://wanderstay-bds0.onrender.com/listings"><strong> ➥ 🛖  Live Your Home
 </strong></a>
 </h1>
 
